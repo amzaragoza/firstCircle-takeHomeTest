@@ -1,0 +1,37 @@
+[
+  {
+    "question": "The logo for Snapchat is a Bell.",
+    "category": "Science: Computers",
+    "difficulty": "easy",
+    "correct_answer": "False",
+    "incorrect_answers": "True"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "category": "Geography",
+    "difficulty": "medium",
+    "correct_answer": "Mt. Everest",
+    "incorrect_answers": "Mount Godwin Austen, Kangchenjunga, Annapurna"
+  },
+  {
+    "question": "When was Left 4 Dead 2 released?",
+    "category": "Entertainment: Video Games",
+    "difficulty": "easy",
+    "correct_answer": "November 17, 2009",
+    "incorrect_answers": "May 3, 2008, November 30, 2009, June 30, 2010"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "category": "Science & Nature",
+    "difficulty": "easy",
+    "correct_answer": "206",
+    "incorrect_answers": "203, 209, 200"
+  },
+  {
+    "question": "Which animation studio produced \"Log Horizon\"?",
+    "category": "Entertainment: Japanese Anime & Manga",
+    "difficulty": "hard",
+    "correct_answer": "Satelite",
+    "incorrect_answers": "Sunrise, Xebec, Production I.G"
+  }
+]
